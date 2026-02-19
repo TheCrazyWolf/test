@@ -6,4 +6,9 @@ public class FooBar
     {
         //
     }
+    
+    public static void DoFooBar2()
+    {
+        //
+    }
 }
